@@ -1,2 +1,2 @@
 #!/bin/bash
-% lpr " aiacta" | tail 1
+" aiacta" | tail 1
