@@ -1,2 +1,2 @@
 #!/bin/bash
-sort iacta --count --duplicate
+sort iacta --count --duplicate_last_line
