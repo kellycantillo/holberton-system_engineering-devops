@@ -1,2 +1,2 @@
 #!/bin/bash
-cat 3 
+cat 0 cat 1 cat 3 
