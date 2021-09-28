@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 *. iacta >> *.fa 
+tail -n 1 *. iacta_0 >> *.iacta_1>> *. iacta_2 
