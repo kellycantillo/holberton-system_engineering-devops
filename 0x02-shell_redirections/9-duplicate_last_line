@@ -1,2 +1,2 @@
 #!/bin/bash
-sort iacta --count --repetido
+sort iacta --count --duplicate
