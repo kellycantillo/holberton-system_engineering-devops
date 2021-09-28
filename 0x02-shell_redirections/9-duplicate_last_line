@@ -1,2 +1,3 @@
 #!/bin/bash
+cat iacta
 tail -n 1 *. iacta_0 >> *.iacta_1>> *. iacta_2 
