@@ -1,2 +1,2 @@
 #!/bin/bash
-tail iacta
+cat iacta ; cat iacta | tail -1
