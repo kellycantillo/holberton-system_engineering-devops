@@ -1,2 +1,2 @@
 #!/bin/bash
-" aiacta" tail 1
+uniq " aiacta" 
