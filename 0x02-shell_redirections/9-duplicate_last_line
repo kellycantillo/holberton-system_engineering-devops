@@ -1,2 +1,2 @@
 #!/bin/bash
-sort iacta | uniq -c | grep -v '^ *1 ' | sort -nr
+cat <iacta> | sort | uniq -c | sort -nr
