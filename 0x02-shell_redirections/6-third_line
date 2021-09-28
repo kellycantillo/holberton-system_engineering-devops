@@ -1,2 +1,2 @@
 #!/bin/bash
-touch " >>" iacta_0, iacta_1, iacta_2i0
+head -n 3 iacta | tail -n 1 
