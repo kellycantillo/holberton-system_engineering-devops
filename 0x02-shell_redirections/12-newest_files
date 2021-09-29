@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltr | tr '\n' '\n' | head -11
+ls -ltr | tr '\n' '\n'| head -11
